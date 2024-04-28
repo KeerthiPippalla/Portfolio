@@ -1,0 +1,69 @@
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/007/531/418/original/modern-dark-blue-wallpaper-template-design-gradient-color-of-dark-blue-background-used-in-abstract-bg-and-wallpaper-template-vector.jpg");
+}
+
+nav {
+    padding-top: 2%;
+}
+
+a {
+    color: white;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    text-decoration: none;
+
+}
+
+
+nav {
+    padding-left: 60%;
+}
+
+.mypic img {
+    width: 500px;
+    height: 600px;
+    padding-left: 60%;
+    margin-top: -20%;
+}
+
+.intro {
+    color: white;
+    padding-top: 10%;
+    padding-left: 10%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.intro h1 {
+    transition: all 0.5s ease;
+
+}
+
+.github img {
+    width: 33%;
+    height: 40%;
+}
+
+.linkedin img {
+    width: 28%;
+    height: 35%;
+    margin-left: -80%;
+    margin-top: 1%;
+}
+
+.hackerrank img {
+    width: 39%;
+    height: 27%;
+    margin-left: -359%;
+    margin-top: 7%;
+}
+
+.acc {
+    display: flex;
+}
+
+.acc>div {
+    margin-right: 10px;
+    margin-top: -20%;
+    margin-left: 5%;
+}

@@ -1,0 +1,60 @@
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/007/531/418/original/modern-dark-blue-wallpaper-template-design-gradient-color-of-dark-blue-background-used-in-abstract-bg-and-wallpaper-template-vector.jpg");
+}
+
+h1,
+li,
+a,
+h2 {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    color: #24e4f2;
+    font-size: 40px;
+    padding-left: 4%;
+    padding-top: 2%;
+}
+
+h2 {
+    font-size: 35px;
+    padding-left: 3%;
+}
+
+
+ul {
+    padding-left: 4%;
+    font-size: 20px;
+    letter-spacing: 10%;
+}
+
+li {
+    padding-top: 0.5%;
+}
+
+a:hover {
+    font-size: 1.1em;
+    /* Increase font size by 20% */
+}
+
+nav {
+    padding-top: 2%;
+}
+
+a {
+    color: white;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    text-decoration: none;
+
+}
+
+
+nav {
+    padding-left: 60%;
+}

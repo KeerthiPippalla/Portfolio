@@ -1,0 +1,58 @@
+a {
+    color: white;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    text-decoration: none;
+
+}
+
+nav {
+    padding-top: 2%;
+}
+
+a :hover {
+    font-size: 20px;
+}
+
+
+nav {
+    padding-left: 60%;
+}
+
+h1 {
+    color: #24e4f2;
+    font-size: 40px;
+    padding-left: 4%;
+    padding-top: 2%;
+}
+
+ul>li {
+
+    color: white;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    padding-left: 5%;
+    padding-top: 4%;
+}
+
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/007/531/418/original/modern-dark-blue-wallpaper-template-design-gradient-color-of-dark-blue-background-used-in-abstract-bg-and-wallpaper-template-vector.jpg");
+}
+
+hr {
+    margin-right: 50%;
+    width: 50%;
+}
+
+p {
+    color: white;
+    padding-left: 4%;
+    font-size: 25px;
+    word-spacing: 1px;
+    letter-spacing: 0.7px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
